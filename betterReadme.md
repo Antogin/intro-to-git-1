@@ -71,7 +71,6 @@ But basically that's the stuff you should hire me for.
 
 ## Contact me
 
-<img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[ @nispeon](https://twitter.com/nispeon)
 
 I'd give you more ways of contacting me but I'm absolutely not looking for a job right now 😝
 
